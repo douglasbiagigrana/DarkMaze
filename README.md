@@ -1,5 +1,5 @@
 # Dark Maze
-Colete todos os itens para sair do labirinto, mas cuidado, esse não será seu unico desafio!
+Colete todos os itens para sair do labirinto, mas cuidado, esse não será seu único desafio!
 
 * Trabalho da disciplina de Jogos Digitais (ITE), onde o objetivo era aprimorar o jogo desenvolvido em aula contendo:
 ```
